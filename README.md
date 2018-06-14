@@ -35,7 +35,7 @@ Day 2
 
 **Afternoon session**:
 
-- Visualisation using matplotlib, seaborn
+- Visualization using matplotlib, seaborn
 - Numpy arrays
 - scipy statistics package
 - scikit-learn intro
